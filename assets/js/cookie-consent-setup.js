@@ -96,7 +96,7 @@ function initializeCookieConsent() {
               },
               {
                 title: 'More information',
-                description: 'For any queries in relation to our policy on cookies and your choices, please <a class="cc-link" href="https://alshedivat.github.io/al-folio/#contact">contact us</a>.'
+                description: 'For any queries in relation to our policy on cookies and your choices, please <a class="cc-link" href="https://github.com/tejasstanley/gsoc2026-Tejas_Stanley/#contact">contact us</a>.'
               }
             ]
           }
